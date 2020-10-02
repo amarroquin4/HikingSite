@@ -137,7 +137,7 @@
   <!--Fixed Background-->
   <figure>
     <div class="fixed-wrap">
-      <div id="fixed" style="background-image: url('images/oziel-gómez.jpg');">
+      <div id="fixed" style="background-image: url('images/oziel-gomez.jpg');">
       </div>
     </div>
   </figure>
