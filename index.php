@@ -28,10 +28,10 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="about.php">About</a>
           </li>
         </ul>
       </div>
@@ -487,9 +487,6 @@
     </div>
   </div>
 
-  <div class = "container-fluid padding">
-    
-  </div>
   <hr class="my-4">
   <!--Two Column Section text on right, img on left-->
   <div class="container-fluid padding" style="padding-top:60px;">
