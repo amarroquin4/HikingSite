@@ -40,9 +40,6 @@
                     <li class="nav-item active">
                         <a class="nav-link" href="about.html">About</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="credit.html">Credit</a>
-                    </li>
                 </ul>
             </div>
         </div>
@@ -53,14 +50,27 @@
     <div class="container-fluid padding">
         <div class="row welcome text-center">
             <div class="col-12">
-                <h1 class="display-4">Hiking</h1>
+                <h1 class="display-4">About</h1>
             </div>
-            <hr>
             <div class="col-12">
-                <p class="lead">This informational website covers everything there is to know about Hiking!</p>
+                <p class="lead">This informational website covers everything there is to know about Hiking!
+                    This is a small landing page that I have created to learn some of the basics of BootStrap along
+                    with other tutorials. I wanted to see how responsive my design orignally would come out and learn 
+                    how to set up sites quickly with BootStrap.
+                </p>
             </div>
         </div>
     </div>
+
+
+    <div class = "row welcome text-center">
+        <div class = "col-12">
+            <h1 class = "display-4">Credit</h1>
+            <hr class = "light">
+        </div>
+    </div>
+
+
     <!--Three Column Section-->
     <div class="container-fluid padding">
         <div class="row text-center padding">
@@ -74,15 +84,47 @@
                 <h3>BOOTSTRAP</h3>
                 <p>Built with the latest version of Bootstrap</p>
             </div>
-            <div class="col-xs-12 col-md-4">
+            <div class="col-xs-12 col-sm-6 col-md-4">
                 <i class="fab fa-css3"></i>
                 <h3>CSS</h3>
                 <p>Built with the latest version of CSS, CSS3</p>
             </div>
+            <div class = "col-xs-12 col-sm-12 col-md-12">
+                <i class = "fab fa-js"></i>
+                <h3>JAVASCRIPT</h3>
+                <p>Built with the latest version of Javascript</p>
+            </div>
         </div>
-        <hr class="my-4">
-        <!--horizontal row-->
     </div>
+
+    <!--Sources for articles and pictures-->
+    <div class = "container-fluid padding">
+        <div class = "row text-center padding">
+            <h1 class = "col-12">
+                Credit
+            </h1>
+        </div>
+    </div>
+    <!--Footer-->
+    <footer>
+        <div class="container-fluid padding">
+          <div class="row text-center">
+            <div class="col-12">
+              <a href = "#"><img style="width:60px;" src="images/logo.jpg"></a>
+              <hr class="light">
+              <p>555-555-5555</p>
+              <p>email@email.com</p>
+              <p>9658 La Nana Way</p>
+              <p>Los Angeles, CA, 90210</p>
+            </div>
+            <hr class="light-100">
+            <div class="col-12">
+              <h5>&copy; amarroquin4.com</h5>
+            </div>
+          </div>
+        </div>
+    </footer>
+    
 </body>
 
 </html>

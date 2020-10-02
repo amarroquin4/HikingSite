@@ -33,9 +33,6 @@
           <li class="nav-item">
             <a class="nav-link" href="about.html">About</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="credit.html">Credit</a>
-          </li>
         </ul>
       </div>
     </div>
@@ -105,7 +102,7 @@
         <p class="lead">"...let go of technology and be completely in the moment"</p>
       </div>
       <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
-        <a target = "_blank" href="https://www.fridayhealthplans.com/2019/04/16/hiking-is-so-good-for-you/"><button type="button" class="btn btn-outline-secondary btn-lg">More Information</button></a>
+        <a target = "_blank" href="https://www.fridayhealthplans.com/2019/04/16/hiking-is-so-good-for-you/"><button type="button" class="btn btn-outline-secondary btn-lg">More Information...</button></a>
       </div>
     </div>
   </div>
@@ -116,18 +113,15 @@
         <h2>Hiking brings...</h2>
         <hr class = "light-100">
         <h4>Healthy toned exercise for the enitre body</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris sit.
-          Suspendisse interdum consectetur libero id.</p>
-        <p>Ut tellus elementum sagittis vitae et leo duis ut
-          diam. Sit amet porttitor eget dolor morbi non arcu risus quis. Consectetur lorem donec massa
-          sapien faucibus et molestie ac.</p>
-        <p>Erat nam at lectus urna duis convallis convallis tellus id.
-          Odio eu feugiat pretium nibh ipsum. Diam quam nulla porttitor massa id neque aliquam. Sed
-          libero enim sed faucibus turpis. Sed viverra ipsum nunc aliquet bibendum enim facilisis
-          gravida neque.</p>
+        <p>Regular walking can get your butt in better shape, but 
+          taking on sharp inclines, using trekking poles to propel you forward, 
+          and clambering over rocks gives your body an all-over workout.  </p>
+        <h4>Increased happiness and less depression</h4>
+        <p>Research shows that using hiking as an additional therapy can help 
+          people with severe depression. It may even inspire those suffering to 
+          lead a more active lifestyle.</p>
         <br>
-        <a href="#" class="btn-outline-secondary">Learn More</a>
+        <a href="https://www.healthfitnessrevolution.com/top-10-health-benefits-hiking/" target = "_blank" class="btn-outline-secondary">Learn More</a>
       </div>
       <div class="col-lg-6">
         <img src="images/stjinDijkstra.jpg" class="img-fluid">
@@ -154,7 +148,7 @@
       <div class="container">
         <div class="intro">
           <p class="text-center" style="position:relative; top:20px;">Click on any image to see more detail<br>
-            <a href="https://www.pexels.com/search/hiking/">Source</a></p>
+            <a href="https://www.pexels.com/search/hiking/" target = "_blank">Source</a></p>
         </div>
         <div class="row photos" id="photos">
           <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-simon-migaj-746386.jpg"
@@ -163,32 +157,45 @@
           <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-dustin-cox-159884.jpg"
               data-lightbox="photos"><img class="img-fluid" src="images/pexels-dustin-cox-159884.jpg"></a></div>
 
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
-          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
-              data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-gabriela-palai-397096.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-gabriela-palai-397096.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-flo-maderebner-238622.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-flo-maderebner-238622.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-pixabay-258045.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-pixabay-258045.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-vlad-bagacian-1061640.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-vlad-bagacian-1061640.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-flo-maderebner-869258.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-flo-maderebner-869258.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-tirachard-kumtanom-450062.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-tirachard-kumtanom-450062.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-mike-andrei-1271619.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-mike-andrei-1271619.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-eric-sanman-1365428.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-eric-sanman-1365428.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-pixabay-235734.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-pixabay-235734.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-artem-beliaikin-2106776.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-artem-beliaikin-2106776.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-min-an-1375560.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-min-an-1375560.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-spencer-lind-1370668.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-spencer-lind-1370668.jpg"></a></div>
+
+          <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-pixabay-533769.jpg"
+              data-lightbox="photos"><img class="img-fluid" src="images/pexels-pixabay-533769.jpg"></a></div>
+
           <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="images/pexels-ibadah-mimpi-3230857.jpg"
               data-lightbox="photos"><img class="img-fluid" src="images/pexels-ibadah-mimpi-3230857.jpg"></a></div>
 
@@ -299,7 +306,7 @@
               <div class="modal-content">
                 <span class="close">&times;</span>
                 
-                <h2 style = "width:450px;">Trekking Poles vs. Hiking Stick</h2>
+                <h2 style = "width:490px;">Trekking Poles vs. Hiking Stick</h2>
                 <p><img src = "images/nordic-poles-4607092_640.png">A trekking pole (also known as a hiking pole) is 
                   basically a ski pole with a handle that you use when hiking. Trekking poles are almost always used in 
                   pairs. <br><br>
@@ -308,8 +315,6 @@
                   more benefits. It gives great support for your knees, and helps you carry a heavier pack to hike
                   even further.<br>
                   <br><!--Spacing-->
-                  <br>
-                  <br>
                   <a href="https://hikingguy.com/how-to-hike/do-i-need-trekking-poles/" target="_blank" id="source">Source</a>
                   <a href="https://www.amazon.com/Best-Sellers-Sports-Outdoors-Trekking-Poles/zgbs/sporting-goods/3401281" target="_blank" id="amazonLink"><i
                       class="fab fa-amazon"></i></a></p>
@@ -409,7 +414,7 @@
                 <span class="close">&times;</span>
                 
                 <h2>Snacks/Food</h2>
-                <p><img src = "images/snacks2.jpg">Hiking snacks are not as important as water but definitely helps
+                <p><img src = "images/snacks2.jpg">Hiking snacks are sometimes just as important as water but definitely helps
                   your body endure longer hikes. Not only do these hiking snacks hold up well in your backpack as 
                   you hike, but they also taste delicious and will keep you energized on the trail.<br>
                   <br>
@@ -493,13 +498,14 @@
         <img src="images/logo.jpg" class="img-fluid">
       </div>
       <div class="col-md-12 col-lg-6">
-        <h2>Hiking philosphy</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-          labore et dolore magna aliqua. Viverra orci sagittis eu volutpat odio facilisis mauris sit.
-          Suspendisse interdum consectetur libero id.</p>
-        <p>Ut tellus elementum sagittis vitae et leo duis ut
-          diam. Sit amet porttitor eget dolor morbi non arcu risus quis. Consectetur lorem donec massa
-          sapien faucibus et molestie ac.</p>
+        <h2 style = "text-align: center;" >Hiking philosphy</h2>
+        <hr class = "light">
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
       </div>
     </div>
   </div>
@@ -511,32 +517,35 @@
         <h2>Share</h2>
       </div>
       <div class="col-12 social padding">
-        <a href="#"><i class="fab fa-facebook"></i></a>
-        <a href="#"><i class="fab fa-twitter"></i></a>
-        <a href="#"><i class="fab fa-pinterest"></i></a>
-        <a href="#"><i class="far fa-envelope"></i></a>
+        <a href="https://www.facebook.com/sharer.php?u=https://hikingsite.herokuapp.com/"><i class="fab fa-facebook"></i></a>
+        <a href="https://twitter.com/intent/tweet?url=https://hikingsite.herokuapp.com/&text=Check%20out%20this%20Hiking%20Informational&via="><i class="fab fa-twitter"></i></a>
+        <a href="https://www.linkedin.com/shareArticle?url=https://hikingsite.herokuapp.com/&title=Check%20out%20this%20Hiking%20Informational"><i class="fab fa-linkedin"></i></a>
+        <a href="mailto:%7Bemail_address%7D?subject=Check%20out%20this%20Hiking%20Informational&body=https://hikingsite.herokuapp.com/%20It's%20an%20interesting%20site%20with%20lots%20of%20information%20to%20create%20"><i class="far fa-envelope"></i></a>
       </div>
     </div>
   </div>
-  <!--Footer-->
-  <footer>
-    <div class="container-fluid padding">
-      <div class="row text-center">
-        <div class="col-12">
-          <img style="width:60px;" src="images/logo.jpg">
-          <hr class="light">
-          <p>555-555-5555</p>
-          <p>email@email.com</p>
-          <p>9658 La Nana Way</p>
-          <p>Los Angeles, CA, 90210</p>
+      <!--Footer-->
+      <footer>
+        <div class="container-fluid padding">
+          <div class="row text-center">
+            <div class="col-12">
+              <a href = "#"><img style="width:60px;" src="images/logo.jpg"></a>
+              <hr class="light">
+              <p>555-555-5555</p>
+              <p>email@email.com</p>
+              <p>9658 La Nana Way</p>
+              <p>Los Angeles, CA, 90210</p>
+            </div>
+            <hr class="light-100">
+            <div class="col-12">
+              <h5>&copy; amarroquin4.com</h5>
+            </div>
+          </div>
         </div>
-        <div class="col-12">
-          <hr class="light-100">
-          <h5>&copy; amarroquin4.com</h5>
-        </div>
-      </div>
-    </div>
-  </footer>
+      </footer>
+
+      <!--BACK TO TOP BTN-->
+    <a id="back-top" href="#"><i class="fa fa-chevron-up"></i></a>
 
 
 
