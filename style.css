@@ -417,6 +417,24 @@ transition: max-height 0.2s ease-out;
     align-content: center;
 }
 
+#back-top {
+    position: fixed;
+    display: none;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.5);
+    bottom: 5px;
+    right: 10px;
+    width: auto;
+}
+
+a#back-top:active {
+    background: none;
+}
+
+a#back-top {
+    display: block;
+    text-decoration: none;
+}
 
 /*---Media Queries---*/
 @media (max-width:992px){
