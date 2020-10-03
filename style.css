@@ -181,12 +181,12 @@ html, body{
 .fa-envelope{
     color:black;
 }
-.fa-pinterest{
-    color:#bb0000;
+.fa-linkedin {
+    color: #4875B4;
 }
 
 .fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, 
-.fa-envelope:hover, .fa-pinterest:hover{
+.fa-envelope:hover, .fa-linkedin:hover{
     color:white;
 }
 
