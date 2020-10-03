@@ -150,7 +150,10 @@ html, body{
     color:#216EAF;
 }
 
-.fa-code, .fa-css3, .fa-bold{
+.fa-js{
+    color:#f0db4f;
+}
+.fa-code, .fa-css3, .fa-bold, .fa-js{
     font-size:4em;
     margin:1rem;
 } 

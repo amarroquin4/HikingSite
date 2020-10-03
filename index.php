@@ -18,7 +18,7 @@
   <!--Navigation-->
   <nav class="navbar navbar-expand-md navbar-light sticky-top">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/index.html"><img style="width: 60px;" src="images/logo.jpg"></a>
+      <a class="navbar-brand" href="/index.php"><img style="width: 60px;" src="images/logo.jpg"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
         <span class="navbar-toggler-icon"></span>
       </button>
