@@ -564,7 +564,7 @@
   <!--LIGHTBOX JS-->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 
-  <script src="JS/index.js"></script>
+  <script src="index.js"></script>
 </body>
 
 </html>
