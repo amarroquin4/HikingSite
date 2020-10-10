@@ -28,17 +28,20 @@
     <!--Navigation-->
     <nav class="navbar navbar-expand-md navbar-light sticky-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/index.php"><img style="width: 60px;" src="images/logo.jpg"></a>
+            <a class="navbar-brand" href="/index.html"><img style="width: 60px;" src="images/logo.jpg"></a>
+            <div class="navbar-title">
+                <h2>Introduction To Hiking</h2>
+              </div>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Home</a>
+                        <a class="nav-link" href="index.html">Home</a>
                     </li>
                     <li class="nav-item active">
-                        <a class="nav-link" href="about.php">About</a>
+                        <a class="nav-link" href="about.html">About</a>
                     </li>
                 </ul>
             </div>
@@ -101,8 +104,25 @@
     <div class = "container-fluid padding">
         <div class = "row text-center padding">
             <h1 class = "col-12">
-                Credit
+                More Credits
             </h1>
+        </div>
+        <div class = "row text-center padding">
+            <p class = "col-12">
+                <a href = "https://www.coderstool.com/share-social-link-generator" target = "_blank">Social Link Generator</a>
+                <br>
+                <a href = "https://www.iexplore.com/experiences/hiking/22-things-to-know-you-go-hiking" target = "_blank">22 Things for Hiking</a>
+                <br>
+                <a href = "https://spoonuniversity.com/lifestyle/the-top-food-and-health-influencers-and-why-are-they-special" target = "_blank">Top Health influences</a>
+                <br>
+                <a href = "https://gowanderwild.com/best-hiking-snacks/" target = "_blank">Hiking Snacks</a>
+                <br>
+                <a href = "https://www.menshealth.com/nutrition/g31992235/best-hiking-snacks/" target = "_blank">Men's Health</a>
+                <br>
+                <a href = "https://hiconsumption.com/best-hiking-sunglasses/" target = "_blank">Hiking Sunglasses</a>
+                <br>
+                <a href = "https://www.pexels.com/search/hiking" target = "_blank">Pexels</a>
+            </p>
         </div>
     </div>
     <!--Footer-->
