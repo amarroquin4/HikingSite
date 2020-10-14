@@ -603,14 +603,12 @@ ul {
         align-items: center;
     }
 
-
-
 }
 
 
 /*--MobileView--*/
 
-@media(max-width:576px) {
+@media(max-width:480px) {
 
     html,
     body {
