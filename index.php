@@ -18,7 +18,7 @@
   <!--Navigation-->
   <nav class="navbar navbar-expand-md navbar-light sticky-top">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/index.html"><img style="width: 60px;" src="images/logo.jpg"></a>
+      <a class="navbar-brand" href="/index.php"><img style="width: 60px;" src="images/logo.jpg"></a>
       <div class="navbar-title">
         <h2>Introduction To Hiking</h2>
       </div>
@@ -406,7 +406,7 @@
                 <span class="close">&times;</span>
 
                 <h2>Sunblock / Sun Glasses</h2>
-                <p><img id = "sunModalImg" src="images/Hiking_shoes_Lowa.jpg">If the sun doesn't bother my eyes, do I still need to wear
+                <p><img id = "sunModalImg" src="images/sunglasses.jpg">If the sun doesn't bother my eyes, do I still need to wear
                   sunglasses?
                   <br><br>
                   <b>Yes.</b> The sun emits damaging ultraviolet (UV) rays that can damage the eyes.
@@ -416,12 +416,10 @@
                   Sunblock <a href="https://www.amazon.com/s?k=sunscreen&ref=nb_sb_noss_1" target="_blank"
                     id="amazonLinkSun1"><i class="fab fa-amazon"></i></a>
                   <br>
-                  Sunglasses <a href="https://www.amazon.com/s?k=sunglasses&ref=nb_sb_noss_1"
-                    style="position:relative; left:43%;" target="_blank" id="amazonLinkSun2"><i
+                  Sunglasses <a href="https://www.amazon.com/s?k=sunglasses&ref=nb_sb_noss_1" target="_blank" id="amazonLinkSun2"><i
                       class="fab fa-amazon"></i></a>
                   <br>
-                  <a href="https://www.allaboutvision.com/faq/sunglasses.htm" target="_blank" id="source"
-                    style="position:relative; top:40%">Source</a>
+                  <a href="https://www.allaboutvision.com/faq/sunglasses.htm" target="_blank" id="source">Source</a>
                 </p>
               </div>
             </div>
