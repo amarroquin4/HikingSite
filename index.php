@@ -443,7 +443,7 @@
                 <span class="close">&times;</span>
 
                 <h2>Snacks/Food</h2>
-                <p><img class="img-fluid" src="images/healthy+hiking+snacks.jpg">Hiking snacks are sometimes just as important as
+                <p><img class="img-fluid" src="images/healthy-hiking-snacks.jpg">Hiking snacks are sometimes just as important as
                   water but definitely helps
                   your body endure longer hikes. Not only do these hiking snacks hold up well in your backpack as
                   you hike, but they also taste delicious and will keep you energized on the trail.<br>
@@ -498,7 +498,7 @@
         <h2 class="display-4">More Tips About Hiking</h2>
       </div>
     </div>
-    <button class="accordion">Tips to Keep You On Track <svg width="1em" height="1em" viewBox="0 0 16 16"
+    <button class="accordion">Stay On Track <svg width="1em" height="1em" viewBox="0 0 16 16"
         class="bi bi-caret-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd"
           d="M3.204 5L8 10.481 12.796 5H3.204zm-.753.659l4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
@@ -524,7 +524,7 @@
       </p>
     </div>
 
-    <button class="accordion">Tips to Keep You Safe <svg width="1em" height="1em" viewBox="0 0 16 16"
+    <button class="accordion">Be Safe <svg width="1em" height="1em" viewBox="0 0 16 16"
         class="bi bi-caret-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd"
           d="M3.204 5L8 10.481 12.796 5H3.204zm-.753.659l4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
@@ -556,7 +556,7 @@
       </p>
     </div>
 
-    <button class="accordion">Tips to Save Your Energy <svg width="1em" height="1em" viewBox="0 0 16 16"
+    <button class="accordion">Save Your Energy <svg width="1em" height="1em" viewBox="0 0 16 16"
         class="bi bi-caret-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd"
           d="M3.204 5L8 10.481 12.796 5H3.204zm-.753.659l4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
@@ -581,7 +581,7 @@
       </p>
     </div>
 
-    <button class="accordion">Tips to Finish Your Hike <svg width="1em" height="1em" viewBox="0 0 16 16"
+    <button class="accordion">Finish Your Hike <svg width="1em" height="1em" viewBox="0 0 16 16"
         class="bi bi-caret-down" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path fill-rule="evenodd"
           d="M3.204 5L8 10.481 12.796 5H3.204zm-.753.659l4.796 5.48a1 1 0 0 0 1.506 0l4.796-5.48c.566-.647.106-1.659-.753-1.659H3.204a1 1 0 0 0-.753 1.659z" />
