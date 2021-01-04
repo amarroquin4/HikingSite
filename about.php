@@ -21,6 +21,8 @@
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
     </script>
     <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
+    <link rel="icon" type="image/png" href="favicon.png" />
     <title>Hiking Infographic</title>
 </head>
 

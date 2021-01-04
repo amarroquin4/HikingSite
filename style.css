@@ -93,7 +93,7 @@ body {
 }
 
 .navbar-light .navbar-nav .active .nav-link {
-    color: #5E3023;
+    color: #C7916B;
 }
 
 .carousel-inner .carousel-item img {
@@ -849,8 +849,6 @@ ul {
         top: -30%;
     }
 
-
-
     .social a {
         font-size: 2rem;
         padding: .7rem;
@@ -860,10 +858,18 @@ ul {
         width: 100%;
     }
 
+    #backpackModal img{
+        object-fit:contain;
+        top:-1.5%;
+        height:30%;
+        position:relative;
+    }
+
     #shoesModal img {
         position: relative;
-        width: 50%;
-        height: 25%;
+        top:-3%;
+        width: 100%;
+        height: 35%;
     }
 
     #shoesModal h2 {
@@ -952,6 +958,7 @@ ul {
     #snackModal img {
         position: relative;
         top: -2%;
+        height:45%;
     }
 
     .accordion svg {

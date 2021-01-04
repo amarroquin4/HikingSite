@@ -11,6 +11,7 @@
     integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
   <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="favicon.png" />
   <title>Hiking Infographic</title>
 </head>
 
